@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\bin\Debug\Desafio_1_e_2_.exe.config
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\bin\Debug\Desafio_1_e_2_.exe
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\bin\Debug\Desafio_1_e_2_.pdb
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\obj\Debug\Desafio_1_e_2_.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\obj\Debug\Desafio_1_e_2_.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\obj\Debug\Desafio_1_e_2_.exe
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\VisualStudio\Desafio_1_e_2_\obj\Debug\Desafio_1_e_2_.pdb
